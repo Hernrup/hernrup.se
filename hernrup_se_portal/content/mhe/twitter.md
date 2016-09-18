@@ -4,4 +4,3 @@ link: https://twitter.com/MikaelHernrup
 fa_icon: fa-twitter
 order: 3
 
-Twitter account
